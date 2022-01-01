@@ -1,0 +1,9 @@
+<!doctype html>
+<html>
+<head> </head>
+<body>
+  <video width=”640” height=”300” controls="videocontrols"><source src="video.mp4"/><source src="video.ogg"/>
+  </video>
+  <!—standard video  formats for web browsers are .mp4, .ogg -->
+</body>
+</html>
